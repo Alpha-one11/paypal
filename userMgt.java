@@ -12,5 +12,4 @@ Nooooooo
 Poppy
 atlas 
 habeeb
-amani
 alpha1
